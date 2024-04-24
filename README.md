@@ -2,4 +2,5 @@
 
 This repository contains the CUI-GUI implementation of a simple E-Commerce System 
 with a pdf of screenshots showing the classes and expected output of each implementation.
-the implementation of this e-commerce system is done using java oop.
+
+The implementation of this e-commerce system is done using java oop and theGUI helps visualizing the output of this System.
